@@ -1,0 +1,26 @@
+[33mcommit 5fdfc522d31612529e5ab114284d76dc3e125fb3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Zanyata <onatowie@gmail.com>
+Date:   Thu Feb 13 22:11:23 2025 +0100
+
+    ćwiczenie
+
+ plik.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit c7f7138892582fc9df767277fd22780c57c63938[m
+Author: Zanyata <onatowie@gmail.com>
+Date:   Thu Feb 13 22:04:29 2025 +0100
+
+    drugi commit
+
+ plik.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 7bef509d047a4cafd9583e3e00208168fb9f37ff[m
+Author: Zanyata <onatowie@gmail.com>
+Date:   Thu Feb 13 21:56:49 2025 +0100
+
+    Pierwszy commit
+
+ plik.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
